@@ -20,6 +20,9 @@ namespace Esercizio_16
                 Console.WriteLine("il triangolo è equilatero!");
                 Console.WriteLine($"l'area è {area} il perimetro è {perimetro}!");
 
+            }else
+            {
+                Console.WriteLine("il triangolo non è equilatero!");
             }
         }
     }
